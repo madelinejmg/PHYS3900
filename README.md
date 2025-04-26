@@ -1,5 +1,5 @@
 
-<h1>Stellar Astrophysics Research | Spring 2025 | Columbia University </h1>
+<h2>Stellar Astrophysics Research | Spring 2025 | Columbia University </h2>
 <strong>Owned by Madeline Maldonado Gutierrez, Advised by Maryum Sayeed</strong></br>
 
 Stellar evolution models show that most of the lithium in red giants, taken with the Very Large Telescope in Chile, is destroyed when a star goes through the first dredge up phase after the main sequence.
