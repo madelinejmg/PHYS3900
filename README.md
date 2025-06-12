@@ -1,4 +1,3 @@
-
 <h2>Stellar Astrophysics Research | Spring 2025 | Columbia University </h2>
 <strong>Owned by Madeline Maldonado Gutierrez, Advised by Maryum Sayeed</strong></br>
 
